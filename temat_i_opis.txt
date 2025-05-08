@@ -1,0 +1,6 @@
+	1.	Propozycja tematu pracy magisterskiej:
+Implementacja i analiza algorytmów umieszczania uporządkowanych zbiorów N-wolnych w książce z minimalną liczbą stron
+	2.	Rodzaj pracy:
+Opracowanie własnej aplikacji i analiza działania algorytmu na przykładach
+	3.	Opis pracy:
+Praca będzie dotyczyć implementacji algorytmu wyznaczania rozszerzenia liniowego uporządkowanych zbiorów N-wolnych o strukturze drzewiastej. Głównym celem będzie stworzenie aplikacji, która umożliwia wizualizację i analizę procesu umieszczania zbioru w książce przy użyciu minimalnej liczby stron. Oprogramowanie będzie operować na grafowej reprezentacji zbioru i wykorzystywać rekurencyjne przeszukiwanie w głąb. Praca będzie zawierać przykłady praktyczne i ocenę jakości rozwiązania w kontekście problemów uporządkowania danych.
